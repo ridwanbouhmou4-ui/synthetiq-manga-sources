@@ -1,0 +1,20 @@
+{
+  "id": "3asq-v1",
+  "name": "3asq",
+  "slug": "3asq",
+  "language": "ar",
+  "contentType": "pageImages",
+  "version": "1.0.0",
+  "baseURL": "https://3asq.online/",
+  "rating": "safe",
+  "releaseTrack": "stable",
+  "capabilities": {
+    "search": true,
+    "discovery": true,
+    "chapters": true,
+    "pages": true
+  },
+  "attribution": {
+    "author": "ridwanbouhmou4-ui"
+  }
+}
