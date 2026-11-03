@@ -1,0 +1,17 @@
+{
+  "id": "3asq-scans",
+  "familyID": "3asq-scans-v1",
+  "name": "3asq Scans",
+  "version": "1.0.0",
+  "contentType": "pageImages",
+  "language": "ar",
+  "rating": "everyone",
+  "releaseTrack": "stable",
+  "capabilities": ["discovery", "search", "details", "chapters", "images"],
+  "baseURL": "https://3asq.org",
+  "universalLink": "https://3asq.org",
+  "entry": "index.js",
+  "icon": "icon.png",
+  "allowedHosts": ["3asq.org"],
+  "attribution": "3asq Scans Team"
+}
