@@ -1,17 +1,20 @@
 {
-  "id": "3asq-scans",
-  "familyID": "3asq-scans-v1",
-  "name": "3asq Scans",
-  "version": "1.0.0",
-  "contentType": "pageImages",
+  "id": "3asq-v1",
+  "name": "3asq",
+  "slug": "3asq",
   "language": "ar",
-  "rating": "everyone",
+  "contentType": "pageImages",
+  "version": "1.0.0",
+  "baseURL": "https://3asq.online/",
+  "rating": "safe",
   "releaseTrack": "stable",
-  "capabilities": ["discovery", "search", "details", "chapters", "images"],
-  "baseURL": "https://3asq.org",
-  "universalLink": "https://3asq.org",
-  "entry": "index.js",
-  "icon": "icon.png",
-  "allowedHosts": ["3asq.org"],
-  "attribution": "3asq Scans Team"
+  "capabilities": {
+    "search": true,
+    "discovery": true,
+    "chapters": true,
+    "pages": true
+  },
+  "attribution": {
+    "author": "ridwanbouhmou4-ui"
+  }
 }
